@@ -1,0 +1,16 @@
+body , .block-container.css-1y4p8pa.ea3mdgi4 {
+    box-sizing: border-box;
+    padding: 3%;
+  
+}
+div.block-container.css-1y4p8pa.ea3mdgi4  {
+    
+    border: 1px solid black;
+    position: fixed;
+    top: 10%;
+    right: 0%;
+    /* margin: 2%; */
+}
+div.element-container.css-64qohy.e1f1d6gn2{
+    border: 1px solid black;
+}

@@ -1,0 +1,13 @@
+this is Ai avatar with audio based chatbot.
+
+these are some features.
+- the chatbot response is Ai response using openai-3.5
+- the response text is speakable by avatar.
+- the avatar are able to read response and 
+	able to speak it.
+- the user query answer are in two flavours
+	1 - text based response
+	2 - avatar based response
+
+you need to install some libraries in order 
+to run in and have openai API KEY.
